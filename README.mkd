@@ -1,0 +1,2 @@
+Put `vimrc` into ~/.vimrc
+Run `make_vim_plugins.sh`
